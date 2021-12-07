@@ -1,0 +1,13 @@
+[
+    {
+        "name":"ravi",
+        "age":"23",
+        "gender":"male"
+    },
+    {
+        "name":"teja",
+        "age":"24",
+        "gender":"male"
+    }
+
+]
